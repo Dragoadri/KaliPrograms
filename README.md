@@ -22,7 +22,7 @@
   <pre><code>pip install -r requirements.txt</code></pre>
 </ol>
 
-<h2 align="center">________________________ ! PROGRAMAS ! ________________________</h2>
+<h2align="center">________________________ ! PROGRAMAS ! ________________________</h2>
 
 <h3>SHERLOCK</h3>
 
@@ -42,3 +42,6 @@
 
 <p>Luego, ejecuta CAMPHISH utilizando el siguiente comando:</p>
 
+<pre><code>./camphish</code></pre>
+
+<p>Elige el método de captura deseado y espera a que se complete el proceso.</p>
