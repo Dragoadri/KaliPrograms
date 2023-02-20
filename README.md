@@ -26,7 +26,7 @@
 
 <h3>SHERLOCK</h3>
 
-<img width="50px" src="https://www.cybervie.com/wp-content/uploads/2021/10/THE-SHERLOCK.png"/>
+<img width="250px" src="https://www.cybervie.com/wp-content/uploads/2021/10/THE-SHERLOCK.png"/>
 
 <p>SHERLOCK es una herramienta que permite conocer las redes sociales asociadas a un username específico.</p>
 
