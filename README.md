@@ -22,7 +22,7 @@
   <pre><code>pip install -r requirements.txt</code></pre>
 </ol>
 
-<h2>________________________ ! PROGRAMAS ! ________________________</h2>
+<h2 align="center">________________________ ! PROGRAMAS ! ________________________</h2>
 
 <h3>SHERLOCK</h3>
 
