@@ -15,7 +15,7 @@ void setup() {
   
   myFile = SD.open(DEFAULT_FILE_NAME);
   if (myFile) {
-    Keyboard.begin(KeyboardLayout_es_ES)
+    Keyboard.begin(KeyboardLayout_es_ES);
     
     String line = "";
     while (myFile.available()) {
